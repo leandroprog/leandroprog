@@ -13,3 +13,9 @@ Meu nome é Leandro Rocha, sou desenvolvedor Full Stack.
 - 🌱Estudando CI/CD, Docker e AWS.
 
 :octocat: [leandrorocha.dev](https://leandrorocha.dev)
+
+<details>
+    <summary align="left">GitHub Profile Stats 💻 📊 🏆</summary>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroprog&langs_count=8&layout=compact" align="left" width="365px" height="210" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=leandroprog&show_icons=true" width="465px" height="210" />
+</details>
