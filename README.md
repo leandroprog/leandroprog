@@ -14,8 +14,16 @@ Meu nome é Leandro Rocha, sou desenvolvedor Full Stack.
 
 :octocat: [leandrorocha.dev](https://leandrorocha.dev)
 
-<details>
-    <summary align="left">GitHub Profile Stats 💻 📊 🏆</summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroprog&langs_count=8&layout=compact" align="left" width="365px" height="210" /> 
-    <img src="https://github-readme-stats.vercel.app/api?username=leandroprog&show_icons=true" width="465px" height="210" />
+<details style="display:flex;justify-content:space-between">
+    <summary align="left" >GitHub Profile Stats 💻 📊 🏆</summary>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroprog&theme=transparent&show_icons=true&count_private=true" alt="Leandro Rocha GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroprog&ver2&layout=compact&theme=transparent&langs_count=8" 
+    alt="Leandro Rocha GitHub Top Languages" />
 </details>
+
+<details style="display:flex;justify-content:space-between">
+<summary align="left" >Wakatime Stats 📊 🏆</summary>
+    
+[![Leandro Rocha wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prog_leandro&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
