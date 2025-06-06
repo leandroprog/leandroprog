@@ -10,7 +10,7 @@
 Meu nome é Leandro Rocha, sou desenvolvedor Full Stack.
 
 - 🔭 Techs: React.js, React Native, Angular, Node.js, Docker, TypeScript, entre outras.
-- 🌱Estudando CI/CD, Docker e AWS.
+- 🌱Estudando IA e AWS.
 
 :octocat: [leandrorocha.dev](https://leandrorocha.dev)
 
